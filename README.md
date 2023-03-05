@@ -12,8 +12,16 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 
 ## ROADMAP CLOUD
 - [ROADMAP](https://roadmap.sh/devops)
-  - [ ] [AWS Training](https://digitalcloud.training/aws-sysops-administrator-associate-free-practice-exam-questions/)   
-  - [ ] [AWS TRAINIG CERTIFICATION](aws.training/Certification)
+  - [ ] AWS
+    - [ ] [AWS Training](https://digitalcloud.training/aws-sysops-administrator-associate-free-practice-exam-questions/)   
+    - [ ] [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+    - [ ] [AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
+    - [ ] [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+    - [ ] [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+    - [ ] [How AWS Pricing Works - AWS Whitepaper](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Fdocs.aws.amazon.com%2Fpdfs%2Fwhitepapers%2Flatest%2Fhow-aws-pricing-works%2Fhow-aws-pricing-works.pdf%23welcome)
+    - [ ] [AWS Samples](https://github.com/aws-samples)
+    - [ ] [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+    
   - [ ] [12 factor App](https://12factor.net/pt_br/)
     - [ ] [Video](https://www.youtube.com/watch?v=gpJgtED36U4&list)
     - [ ] [12factor.net/pt_br](https://12factor.net/pt_br/)
